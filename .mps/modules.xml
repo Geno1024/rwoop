@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.rwoop.readme/com.geno1024.rwoop.readme.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.geno1024.rwoop.readme/sandbox/com.geno1024.rwoop.readme.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
